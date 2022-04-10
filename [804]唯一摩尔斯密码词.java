@@ -62,7 +62,7 @@ import java.util.Set;
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 	public static final String[] MORSE = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.",
-			"....", "leetcode/editor", ".---", "-.-", ".-..", "--", "-.",
+			"....", "..", ".---", "-.-", ".-..", "--", "-.",
 			"---", ".--.", "--.-", ".-.", "...", "-", "..-",
 			"...-", ".--", "-..-", "-.--", "--.."};
 
